@@ -1,4 +1,5 @@
 fruits = ["pineapple","banana","apple","melon"]
-fruits.append("kiwi")
-fruits.remove("melon")
+
+fruits.pop(3)
+
 print(fruits)
